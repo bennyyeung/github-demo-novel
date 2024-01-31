@@ -1,3 +1,6 @@
+========
+Characters
+========
 lorem*10
 lorem*10
 lorem*10

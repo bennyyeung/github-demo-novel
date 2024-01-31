@@ -1,4 +1,6 @@
-My first essay
+========
+Outline
+========
 Chapter 1
 
 Title: Shadows of the Forgotten
